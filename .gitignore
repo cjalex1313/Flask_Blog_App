@@ -66,6 +66,9 @@ pytestdebug.log
 *.mo
 *.pot
 
+#Flask local db
+site.db
+
 # Django stuff:
 *.log
 local_settings.py
